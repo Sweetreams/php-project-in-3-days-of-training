@@ -11,8 +11,8 @@
 На сайт можно зайти имея локальный хостинг.
 
 ## Установка
-* Клонируйте репозиторий с помощью
+* Клонируйте репозиторий с помощью:
 
 ```
-git clone git@github.com:atherosai/ui.git
+gh repo clone Sweetreams/php-project-in-3-days-of-training
 ```
